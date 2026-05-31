@@ -1,3 +1,4 @@
+/* global process */
 import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
@@ -25,7 +26,7 @@ function run() {
   if (!commitTimeISO) {
     try {
       commitTimeISO = execSync('git log -1 --format=%cI').toString().trim();
-    } catch (e) {
+    } catch {
       commitTimeISO = new Date().toISOString();
     }
   }

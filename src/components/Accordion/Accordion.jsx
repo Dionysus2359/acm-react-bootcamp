@@ -1,5 +1,5 @@
 import './Accordion.css';
 
-export const Accordion = (props) => {
+export const Accordion = () => {
   return <div></div>;
 };

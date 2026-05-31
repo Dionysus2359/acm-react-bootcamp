@@ -1,5 +1,5 @@
 import './Carousel.css';
 
-export const Carousel = (props) => {
+export const Carousel = () => {
   return <div></div>;
 };

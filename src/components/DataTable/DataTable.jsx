@@ -1,5 +1,5 @@
 import './DataTable.css';
 
-export const DataTable = (props) => {
+export const DataTable = () => {
   return <div></div>;
 };

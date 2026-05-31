@@ -1,5 +1,5 @@
 import './Badge.css';
 
-export const Badge = (props) => {
+export const Badge = () => {
   return <div></div>;
 };

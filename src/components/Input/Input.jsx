@@ -1,5 +1,5 @@
 import './Input.css';
 
-export const Input = (props) => {
+export const Input = () => {
   return <div></div>;
 };

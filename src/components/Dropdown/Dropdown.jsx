@@ -1,5 +1,5 @@
 import './Dropdown.css';
 
-export const Dropdown = (props) => {
+export const Dropdown = () => {
   return <div></div>;
 };

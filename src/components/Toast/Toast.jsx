@@ -1,5 +1,5 @@
 import './Toast.css';
 
-export const Toast = (props) => {
+export const Toast = () => {
   return <div></div>;
 };

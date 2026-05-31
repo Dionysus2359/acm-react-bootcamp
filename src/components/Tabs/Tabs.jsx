@@ -1,5 +1,5 @@
 import './Tabs.css';
 
-export const Tabs = (props) => {
+export const Tabs = () => {
   return <div></div>;
 };

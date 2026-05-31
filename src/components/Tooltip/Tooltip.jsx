@@ -1,5 +1,5 @@
 import './Tooltip.css';
 
-export const Tooltip = (props) => {
+export const Tooltip = () => {
   return <div></div>;
 };

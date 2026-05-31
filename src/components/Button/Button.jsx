@@ -1,5 +1,5 @@
 import './Button.css';
 
-export const Button = (props) => {
+export const Button = () => {
   return <div></div>;
 };

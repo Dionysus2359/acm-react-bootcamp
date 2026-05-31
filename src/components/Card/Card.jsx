@@ -1,5 +1,5 @@
 import './Card.css';
 
-export const Card = (props) => {
+export const Card = () => {
   return <div></div>;
 };

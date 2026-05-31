@@ -1,5 +1,5 @@
 import './ToggleSwitch.css';
 
-export const ToggleSwitch = (props) => {
+export const ToggleSwitch = () => {
   return <div></div>;
 };

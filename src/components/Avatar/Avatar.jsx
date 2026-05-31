@@ -1,5 +1,5 @@
 import './Avatar.css';
 
-export const Avatar = (props) => {
+export const Avatar = () => {
   return <div></div>;
 };
